@@ -83,7 +83,7 @@ http://localhost:5173
 ## Environment Configuration (.env)
 
 ```env
-DATABASE_URL=postgresql+asyncpg://postgres:password@localhost:5432/gridtrace
+DATABASE_URL=your_database
 
 GROQ_API_KEY=your_api_key
 GROQ_MODEL=llama-3.3-70b-versatile
